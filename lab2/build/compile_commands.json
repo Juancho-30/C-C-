@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc  -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2 -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../lib -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../sys/CMSIS/Device/ST/STM32F3xx/Include -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../sys/CMSIS/Include -O0 -Wno-deprecated -Werror -DDEBUG -mthumb -mcpu=cortex-m4 -mfloat-abi=soft -DSTM32F303x8 -DARMCM4 -std=c11 -fstrict-volatile-bitfields -ffunction-sections -Wall -Wextra -Wcast-align -Wshadow -Wlogical-op -Wsuggest-final-types -Wsuggest-final-methods -fexceptions -g -o CMakeFiles/lab2.dir/main.c.obj -c /Users/epico/Downloads/coro-micro-tp-etu-master/lab2/main.c",
+  "file": "/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/main.c"
+},
+{
+  "directory": "/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc  -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2 -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../lib -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../sys/CMSIS/Device/ST/STM32F3xx/Include -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../sys/CMSIS/Include -O0 -Wno-deprecated -Werror -DDEBUG -mthumb -mcpu=cortex-m4 -mfloat-abi=soft -DSTM32F303x8 -DARMCM4 -std=c11 -fstrict-volatile-bitfields -ffunction-sections -Wall -Wextra -Wcast-align -Wshadow -Wlogical-op -Wsuggest-final-types -Wsuggest-final-methods -fexceptions -g -o CMakeFiles/lab2.dir/Users/epico/Downloads/coro-micro-tp-etu-master/lib/adc.c.obj -c /Users/epico/Downloads/coro-micro-tp-etu-master/lib/adc.c",
+  "file": "/Users/epico/Downloads/coro-micro-tp-etu-master/lib/adc.c"
+},
+{
+  "directory": "/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc  -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2 -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../lib -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../sys/CMSIS/Device/ST/STM32F3xx/Include -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../sys/CMSIS/Include -O0 -Wno-deprecated -Werror -DDEBUG -mthumb -mcpu=cortex-m4 -mfloat-abi=soft -DSTM32F303x8 -DARMCM4 -std=c11 -fstrict-volatile-bitfields -ffunction-sections -Wall -Wextra -Wcast-align -Wshadow -Wlogical-op -Wsuggest-final-types -Wsuggest-final-methods -fexceptions -g -o CMakeFiles/lab2.dir/Users/epico/Downloads/coro-micro-tp-etu-master/lib/pinAccess.c.obj -c /Users/epico/Downloads/coro-micro-tp-etu-master/lib/pinAccess.c",
+  "file": "/Users/epico/Downloads/coro-micro-tp-etu-master/lib/pinAccess.c"
+},
+{
+  "directory": "/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc  -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2 -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../lib -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../sys/CMSIS/Device/ST/STM32F3xx/Include -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../sys/CMSIS/Include -O0 -Wno-deprecated -Werror -DDEBUG -mthumb -mcpu=cortex-m4 -mfloat-abi=soft -DSTM32F303x8 -DARMCM4 -std=c11 -fstrict-volatile-bitfields -ffunction-sections -Wall -Wextra -Wcast-align -Wshadow -Wlogical-op -Wsuggest-final-types -Wsuggest-final-methods -fexceptions -g -o CMakeFiles/lab2.dir/Users/epico/Downloads/coro-micro-tp-etu-master/lib/spi.c.obj -c /Users/epico/Downloads/coro-micro-tp-etu-master/lib/spi.c",
+  "file": "/Users/epico/Downloads/coro-micro-tp-etu-master/lib/spi.c"
+},
+{
+  "directory": "/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc  -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2 -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../lib -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../sys/CMSIS/Device/ST/STM32F3xx/Include -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../sys/CMSIS/Include -O0 -Wno-deprecated -Werror -DDEBUG -mthumb -mcpu=cortex-m4 -mfloat-abi=soft -DSTM32F303x8 -DARMCM4 -std=c11 -fstrict-volatile-bitfields -ffunction-sections -Wall -Wextra -Wcast-align -Wshadow -Wlogical-op -Wsuggest-final-types -Wsuggest-final-methods -fexceptions -g -o CMakeFiles/lab2.dir/Users/epico/Downloads/coro-micro-tp-etu-master/lib/dummySerial.c.obj -c /Users/epico/Downloads/coro-micro-tp-etu-master/lib/dummySerial.c",
+  "file": "/Users/epico/Downloads/coro-micro-tp-etu-master/lib/dummySerial.c"
+},
+{
+  "directory": "/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc  -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2 -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../lib -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../sys/CMSIS/Device/ST/STM32F3xx/Include -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../sys/CMSIS/Include -O0 -Wno-deprecated -Werror -DDEBUG -mthumb -mcpu=cortex-m4 -mfloat-abi=soft -DSTM32F303x8 -DARMCM4 -std=c11 -fstrict-volatile-bitfields -ffunction-sections -Wall -Wextra -Wcast-align -Wshadow -Wlogical-op -Wsuggest-final-types -Wsuggest-final-methods -fexceptions -g -o CMakeFiles/lab2.dir/Users/epico/Downloads/coro-micro-tp-etu-master/lib/exti.c.obj -c /Users/epico/Downloads/coro-micro-tp-etu-master/lib/exti.c",
+  "file": "/Users/epico/Downloads/coro-micro-tp-etu-master/lib/exti.c"
+},
+{
+  "directory": "/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc  -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2 -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../lib -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../sys/CMSIS/Device/ST/STM32F3xx/Include -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../sys/CMSIS/Include -O0 -Wno-deprecated -Werror -DDEBUG -mthumb -mcpu=cortex-m4 -mfloat-abi=soft -DSTM32F303x8 -DARMCM4 -std=c11 -fstrict-volatile-bitfields -ffunction-sections -Wall -Wextra -Wcast-align -Wshadow -Wlogical-op -Wsuggest-final-types -Wsuggest-final-methods -fexceptions -g -o CMakeFiles/lab2.dir/Users/epico/Downloads/coro-micro-tp-etu-master/sys/startup_ARMCM4.c.obj -c /Users/epico/Downloads/coro-micro-tp-etu-master/sys/startup_ARMCM4.c",
+  "file": "/Users/epico/Downloads/coro-micro-tp-etu-master/sys/startup_ARMCM4.c"
+},
+{
+  "directory": "/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/build",
+  "command": "/usr/local/bin/arm-none-eabi-gcc  -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2 -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../lib -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../sys/CMSIS/Device/ST/STM32F3xx/Include -I/Users/epico/Downloads/coro-micro-tp-etu-master/lab2/../sys/CMSIS/Include -O0 -Wno-deprecated -Werror -DDEBUG -mthumb -mcpu=cortex-m4 -mfloat-abi=soft -DSTM32F303x8 -DARMCM4 -std=c11 -fstrict-volatile-bitfields -ffunction-sections -Wall -Wextra -Wcast-align -Wshadow -Wlogical-op -Wsuggest-final-types -Wsuggest-final-methods -fexceptions -g -o CMakeFiles/lab2.dir/Users/epico/Downloads/coro-micro-tp-etu-master/sys/startup_clock.c.obj -c /Users/epico/Downloads/coro-micro-tp-etu-master/sys/startup_clock.c",
+  "file": "/Users/epico/Downloads/coro-micro-tp-etu-master/sys/startup_clock.c"
+}
+]
