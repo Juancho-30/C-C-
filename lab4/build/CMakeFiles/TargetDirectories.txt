@@ -1,0 +1,7 @@
+D:/École Central/Embedded Computing - Micro/Laboratories/coro-micro-tp-etu-master/lab4/build/CMakeFiles/lab4.dir
+D:/École Central/Embedded Computing - Micro/Laboratories/coro-micro-tp-etu-master/lab4/build/CMakeFiles/bin.dir
+D:/École Central/Embedded Computing - Micro/Laboratories/coro-micro-tp-etu-master/lab4/build/CMakeFiles/flash.dir
+D:/École Central/Embedded Computing - Micro/Laboratories/coro-micro-tp-etu-master/lab4/build/CMakeFiles/qemu-run.dir
+D:/École Central/Embedded Computing - Micro/Laboratories/coro-micro-tp-etu-master/lab4/build/CMakeFiles/qemu-gdb.dir
+D:/École Central/Embedded Computing - Micro/Laboratories/coro-micro-tp-etu-master/lab4/build/CMakeFiles/edit_cache.dir
+D:/École Central/Embedded Computing - Micro/Laboratories/coro-micro-tp-etu-master/lab4/build/CMakeFiles/rebuild_cache.dir
