@@ -1,0 +1,7 @@
+/Users/epico/Downloads/coro-micro-tp-etu-master/lab1/build/CMakeFiles/rebuild_cache.dir
+/Users/epico/Downloads/coro-micro-tp-etu-master/lab1/build/CMakeFiles/edit_cache.dir
+/Users/epico/Downloads/coro-micro-tp-etu-master/lab1/build/CMakeFiles/qemu-run.dir
+/Users/epico/Downloads/coro-micro-tp-etu-master/lab1/build/CMakeFiles/flash.dir
+/Users/epico/Downloads/coro-micro-tp-etu-master/lab1/build/CMakeFiles/lab1.dir
+/Users/epico/Downloads/coro-micro-tp-etu-master/lab1/build/CMakeFiles/bin.dir
+/Users/epico/Downloads/coro-micro-tp-etu-master/lab1/build/CMakeFiles/qemu-gdb.dir
