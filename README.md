@@ -1,4 +1,4 @@
-# C-C++
+# Embedded C-C++
 This repository are laboratories made for ARM STM32F303
 
 Arm®Cortex®-M4 32b MCU+FPU, up to 64KB Flash, 16KB SRAM,
