@@ -1,5 +1,5 @@
-# Embedded C-C++
-This repository are laboratories made for ARM STM32F303
+# Embedded C-Cpp
+This repository are laboratories made for ARM STM32F303 according to masters course in École Central de Nantes for Robotics
 
 Arm®Cortex®-M4 32b MCU+FPU, up to 64KB Flash, 16KB SRAM,
 2 ADCs, 3 DACs, 3 comp., op-amp 2.0 - 3.6 V
